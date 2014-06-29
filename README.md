@@ -19,5 +19,5 @@ Add a new manual TCP token log at [logentries.com](https://logentries.com/quick-
 Usage examples:
 
 ```shell
-tail -F /var/log/some_logfile.log | lecat -token <logentries_token>
+tail -F /var/log/some_logfile.log | lecat -token <logentries_token> -level <optional_log_level>
 ```
