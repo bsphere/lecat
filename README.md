@@ -1,7 +1,10 @@
 lecat
 =====
 
-Command line tool to dump stdin to Logentries
+Command line tool to dump stdin to [Logentries](http://logentries.com)
+
+The motivation behind this tool - https://medium.com/coding-and-deploying-in-the-cloud/simple-logging-to-logentries-from-a-docker-container-d3609073db30
+
 
 Installation
 ------------
